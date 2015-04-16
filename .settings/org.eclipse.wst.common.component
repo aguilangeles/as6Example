@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="as6example">
+    <wb-module deploy-name="as6Example">
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
-        <property name="context-root" value="as6example"/>
-        <property name="java-output-path" value="/as6example/target/classes"/>
+        <property name="java-output-path" value="/as6Example/target/classes"/>
+        <property name="context-root" value="as6Example"/>
     </wb-module>
 </project-modules>
